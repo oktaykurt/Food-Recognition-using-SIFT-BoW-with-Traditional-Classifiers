@@ -2,6 +2,8 @@
 
 This repository contains the implementation of a traditional machine learning approach using Scale-Invariant Feature Transform (SIFT) and Bag of Words (BoW) representation with Support Vector Machines (SVM) for food recognition. The dataset used for this project is the iFood-2019-FGVC6 dataset, which comprises 251 food classes.
 
+https://www.kaggle.com/c/ifood-2019-fgvc6
+
 ## Repository Contents
 
 - **Swift and BoW Technique**: This folder contains the code and implementation details for the SIFT and BoW techniques.
