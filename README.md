@@ -59,7 +59,7 @@ o.kurt@campus.unimib.it
 
 **Abstract**: This project develops and evaluates two approaches for food recognition: a CNN and a traditional machine learning approach using SIFT and BoW with SVM. The dataset comprises 251 food classes with varying image counts. Despite computational constraints and dataset size, the project provides insights into the challenges and potential improvements for food recognition systems.
 
-You can download the full research paper [here](./Food Recognition using CNNs and SIFT/BoW with Traditional Classifiers.pdf).
+You can download the full research paper [here](https://github.com/oktaykurt/Food-Recognition-using-SIFT-BoW-with-Traditional-Classifiers/blob/main/Food%20Recognition%20using%20CNNs%20and%20SIFT%3ABoW%20with%20Traditional%20Classifiers.pdf).
 
 ## Citation
 
